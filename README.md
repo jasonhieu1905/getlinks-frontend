@@ -1,4 +1,5 @@
-Live demo : https://getlinks-frontend.firebaseapp.com/
+Live demo : https://getlinks-frontend.firebaseapp.com/.
+
 Requirements: 
  - You can use Lorem text and placeholder images anywhere you want
  - You can modify the design if you have a better idea
