@@ -1,0 +1,25 @@
+
+#introduction {
+    background-color:  #c6c4c4;
+}
+
+.text-center {
+    text-align: center;
+}
+
+
+.reddish {
+    color: #f55150;
+}
+
+.nose-p {
+    font-size: 24px;
+    line-height: 30px;
+    font-family: 'HelveticaNeue-Thin';
+    margin-bottom: 30px;
+
+}
+
+.p-introduction {
+    margin-top: 20px;
+}
