@@ -11,3 +11,7 @@ page ( need to have google map ) ...
 slide image, etc. )
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+# Set up and instruction
+ 1. Do "npm install" at project folder.
+ 2. Start project "npm start"
